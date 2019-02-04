@@ -6,6 +6,6 @@ list of open corpora for ASR research
 |Vystadial	| English; Czech |  41; 15  |  ?; ?     | <http://www.openslr.org/6/> |
 | Yesno     |Hebrew          | ~6 mins  | one male    | <http://www.openslr.org/1/> |
 |TED-LIUM   |English         | 118      | 685 speakers (36 hours female + 81 hours male)|<http://www.openslr.org/7/>|
-|LibriSpeech   |English         | ~1000      | 685 speakers (36 hours female + 81 hours male)|<http://www.openslr.org/12/>|
+|LibriSpeech   |English         | ~1000      | ??? |<http://www.openslr.org/12/>|
 
 
