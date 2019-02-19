@@ -3,7 +3,9 @@ list of open corpora for ASR research
 
 | CORPUS  	| LANGUAGES | #HOURS  | #SPEAKERS |   URL	| Licensing |
 |---	|---	|---  |---	|---	| --- |
+
 |Vystadial	| English; Czech |  41; 15  |       | <http://www.openslr.org/6/> | CC BY-SA 3.0 US|
+|VoxForge	| English |    |       | <http://www.voxforge.org/home/downloads> | GPL-3|
 | Yesno     |Hebrew          | ~6 mins  | one male    | <http://www.openslr.org/1/> | "No formal license but free to use for any purpose." |
 |TED-LIUM   |English         | 118      | 685 speakers (36 hours female + 81 hours male)|<http://www.openslr.org/7/>| CC BY-NC-ND 3.0 |
 |TED-LIUMv2   |English         | 207      | 1242 speakers (66 hours female + 141 hours male)|<http://www.openslr.org/19/>| CC BY-NC-ND 3.0 |
