@@ -19,6 +19,7 @@ Feel free to propse additions to the list!
 |LibriSpeech   |English         | ~1000      | female: 1201; male: 1283   |<http://www.openslr.org/12/>|  CC BY 4.0  |
 |Pansori TEDxKR | Korean| 3 hours| 41 speakers |<http://www.openslr.org/58/>| CC BY-NC-ND 4.0|
 |African Accented French | French| 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0|
+| ALFFA | Amharic;Hausa (paid); Swahili; Wolof | |  | <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 | Google Nepali | Nepali| | | <http://www.openslr.org/54/> | CC BY-SA 4.0  |
 | Google Bengali | Bengali| | | <http://www.openslr.org/53/> | CC BY-SA 4.0  |
 | Google Sinhala |Sinhala | | | <http://www.openslr.org/52/> | CC BY-SA 4.0  |
