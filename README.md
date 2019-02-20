@@ -1,9 +1,8 @@
 # Corpora
-list of open corpora for ASR research
+A list of open(ish) corpora for ASR research and development.
 
 | CORPUS  	| LANGUAGES | #HOURS  | #SPEAKERS |   URL	| Licensing |
 |---	|---	|---  |---	|---	| --- |
-
 |Vystadial	| English; Czech |  41; 15  |       | <http://www.openslr.org/6/> | CC BY-SA 3.0 US|
 |VoxForge	| English |    |       | <http://www.voxforge.org/home/downloads> | GPL-3|
 | Yesno     |Hebrew          | ~6 mins  | one male    | <http://www.openslr.org/1/> | "No formal license but free to use for any purpose." |
