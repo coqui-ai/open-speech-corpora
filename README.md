@@ -12,6 +12,7 @@ Feel free to propse additions to the list!
 |---	|---	|---  |---	|---	| --- |
 | CommonVoice-1   | English         | ~500 hours      |  |<https://voice.mozilla.org/en/datasets>|  CC-0  |
 | LibriSpeech   |English         | ~1000 hours      | female: 1201; male: 1283   |<http://www.openslr.org/12/>|  CC-BY 4.0  |
+| SWC-2017   |English; German; Dutch         | 182 hours; 249 hours; 79 hours      | 395 speakers; 339 speakers; 145 speakers  |<https://nats.gitlab.io/swc/>|  CC-BY-SA 4.0  |
 | VoxForge	| English |    |       | <http://www.voxforge.org/home/downloads> | GPL 3.0 |
 | TED-LIUM   |English         | 118 hours     | 685 speakers (36h female + 81h male)|<http://www.openslr.org/7/>| CC-BY-NC-ND 3.0 |
 | TED-LIUM-2   |English         | 207 hours     | 1242 speakers (66h female + 141h male)|<http://www.openslr.org/19/>| CC-BY-NC-ND 3.0 |
