@@ -10,13 +10,14 @@ Feel free to propse additions to the list!
 
 | CORPUS  	| LANGUAGES | #HOURS  | #SPEAKERS |   DOWNLOAD	| LICENSE |
 |---	|---	|---  |---	|---	| --- |
+| CommonVoice-1   | English         | ~500 hours      |  |<https://voice.mozilla.org/en/datasets>|  CC-0  |
+|LibriSpeech   |English         | ~1000 hours      | female: 1201; male: 1283   |<http://www.openslr.org/12/>|  CC BY 4.0  |
 |Vystadial	| English; Czech |  41 hours; 15 hours  |       | <http://www.openslr.org/6/> | CC BY-SA 3.0 US|
 |VoxForge	| English |    |       | <http://www.voxforge.org/home/downloads> | GPL-3|
 | Yesno     |Hebrew          | 6 mins  | one male    | <http://www.openslr.org/1/> | CC-0 |
 |TED-LIUM   |English         | 118 hours     | 685 speakers (36h female + 81h male)|<http://www.openslr.org/7/>| CC BY-NC-ND 3.0 |
 |TED-LIUM-2   |English         | 207 hours     | 1242 speakers (66h female + 141h male)|<http://www.openslr.org/19/>| CC BY-NC-ND 3.0 |
 |TED-LIUM-3   |English         | 452 hours     | 2028 speakers (134h female + 316h male) |<http://www.openslr.org/51/>|  CC BY-NC-ND 3.0  |
-|LibriSpeech   |English         | 1000 hours      | female: 1201; male: 1283   |<http://www.openslr.org/12/>|  CC BY 4.0  |
 |Iban   |Iban         | 8 hours      |    |<http://www.openslr.org/24/> <https://github.com/sarahjuan/iban>|  CC BY-SA 2.0 |
 |Pansori TEDxKR | Korean| 3 hours| 41 speakers |<http://www.openslr.org/58/>| CC BY-NC-ND 4.0|
 |African Accented French | French| 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0|
