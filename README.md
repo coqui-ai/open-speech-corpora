@@ -22,7 +22,10 @@ Feel free to propse additions to the list!
 | Google Nepali | Nepali| | | <http://www.openslr.org/54/> | CC BY-SA 4.0  |
 | Google Bengali | Bengali| | | <http://www.openslr.org/53/> | CC BY-SA 4.0  |
 | Google Sinhala |Sinhala | | | <http://www.openslr.org/52/> | CC BY-SA 4.0  |
+| Google Sudanese | Sudanese Arabic | | | <http://www.openslr.org/36/> | CC BY-SA 4.0  |
+| Google Javanese |Javanese | | | <http://www.openslr.org/35/> | CC BY-SA 4.0  |
 | Primewords Mandarin| Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | CC BY-NC-ND 4.0 |
+| AISHELL-1 | Mandarin | 170 hours | 400 speakers | <http://www.openslr.org/33/> | Apache 2.0 |
 | Tunisian_MSA | Modern Standard Arabic (Tunisia) | 11.2 hours  | 118 speakers | <http://www.openslr.org/46/> | Apache 2.0  |
 | Zeroth-Korean | Korean | 52.8 hours  | 115 speakers | <http://www.openslr.org/40/> | CC BY 4.0 |
 |EUROM-1   | Danish, Dutch, English, French, German, Greek, Italian, Norwegian, Portuguese, Spanish, Swedish         | total: >130 hours; per language: >12 hours      | total: 660; per language: 60 speakers, 30 female and 30 male | <https://www.phon.ucl.ac.uk/shop/eurom1.php> | "The data may be used for research purposes, but it may not be resold in any form." |
