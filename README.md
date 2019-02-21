@@ -51,3 +51,5 @@ Feel free to propse additions to the list!
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 | CMU Wilderness | 700 Langs | Alignments distributed without audio or text total:~14,000 hours; per lang: ~20 hours |  | <https://github.com/festvox/datasets-CMU_Wilderness> | Questionable Legality: <https://live.bible.is/terms> |
 | CHiME-5 | English | 50 hours | 48 speakers | <http://spandh.dcs.shef.ac.uk/chime_challenge/data.html> | [CHiME-5 License](http://spandh.dcs.shef.ac.uk/chime_challenge/download.html) |
+| IBM Recorded Debates, release 1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC BY-ND |
+| IBM Recorded Debates, release 2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC BY-ND |
