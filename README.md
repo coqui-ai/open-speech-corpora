@@ -53,3 +53,6 @@ Feel free to propse additions to the list!
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 | CMU Wilderness | 700 Langs | Alignments distributed without audio or text total:~14,000 hours; per lang: ~20 hours |  | <https://github.com/festvox/datasets-CMU_Wilderness> | Questionable Legality: <https://live.bible.is/terms> |
 | CHiME-5 | English | 50 hours | 48 speakers | <http://spandh.dcs.shef.ac.uk/chime_challenge/data.html> | [CHiME-5 License](http://spandh.dcs.shef.ac.uk/chime_challenge/download.html) |
+| FalaBrasil/LAPS/Constituicao | Brazilian-Portuguese | 9 hours | 1 speaker | <https://drive.google.com/uc?export=download&confirm=SrvW&id=1Nf849u-27CYRzJqedLaI-FaZfMRO7FT> |  |
+| FalaBrasil/LaPSMail | Brazilian-Portuguese | 1 hours | 25 speakers | <https://drive.google.com/uc?export=download&confirm=PecV&id=1B_Vq8MDSE4fBQefVxqCGSl-EcKAcjJLb> |  |
+| FalaBrasil/LaPS Benchmark | Brazilian-Portuguese | 1 hours | 1 speaker | <https://drive.google.com/uc?export=download&confirm=XFfF&id=1nZ8L9nJTt4blFC0RGT9Y7XRu02aAvDIo> |  |
