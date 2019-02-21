@@ -14,6 +14,7 @@ Feel free to propse additions to the list!
 | LibriSpeech   |English         | ~1000 hours      | female: 1201; male: 1283   |<http://www.openslr.org/12/>|  CC-BY 4.0  |
 | SWC-2017   |English; German; Dutch         | 182 hours; 249 hours; 79 hours      | 395 speakers; 339 speakers; 145 speakers  |<https://nats.gitlab.io/swc/>|  CC-BY-SA 4.0  |
 | VoxForge	| English |    |       | <http://www.voxforge.org/home/downloads> | GPL 3.0 |
+| CHiME-Home   |English         |  6.8 hours     |  |<https://archive.org/details/chime-home>| CC-BY-NC-SA 3.0 |
 | TED-LIUM   |English         | 118 hours     | 685 speakers (36h female + 81h male)|<http://www.openslr.org/7/>| CC-BY-NC-ND 3.0 |
 | TED-LIUM-2   |English         | 207 hours     | 1242 speakers (66h female + 141h male)|<http://www.openslr.org/19/>| CC-BY-NC-ND 3.0 |
 | TED-LIUM-3   |English         | 452 hours     | 2028 speakers (134h female + 316h male) |<http://www.openslr.org/51/>|  CC-BY-NC-ND 3.0  |
@@ -36,3 +37,4 @@ Feel free to propse additions to the list!
 |EUROM-1   | Danish, Dutch, English, French, German, Greek, Italian, Norwegian, Portuguese, Spanish, Swedish         | total: ~130 hours; per language: ~12 hours      | total: 660; per language: 60 speakers, 30 female and 30 male | <https://www.phon.ucl.ac.uk/shop/eurom1.php> | "The data may be used for research purposes, but it may not be resold in any form." |
 |Babel   |  19 Langs | total: ~3900 hours; per language: ~205 hours  | | <https://catalog.ldc.upenn.edu/search>, enter *babel* under *Publication Name:* | LDC Licensing <https://www.ldc.upenn.edu/data-management/using/licensing>|
 |CMU Wilderness | 700 Langs | Alignments distributed without audio or text total:~14,000 hours; per lang: ~20 hours| |<https://github.com/festvox/datasets-CMU_Wilderness>| Questionable Legality: <https://live.bible.is/terms>|
+| CHiME-5   |English         | 50 hours     |  48 speakers |<http://spandh.dcs.shef.ac.uk/chime_challenge/data.html>| [CHiME-5 License](http://spandh.dcs.shef.ac.uk/chime_challenge/download.html)  |
