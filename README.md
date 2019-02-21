@@ -37,6 +37,8 @@ Feel free to propse additions to the list!
 | Google Sinhala | Sinhala |  |  | <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
 | Google Sudanese | Sudanese Arabic |  |  | <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
 | SWC-2017 | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
+| IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
+| IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | Tatoeba-Eng | English |  hours | 6 speakers | <https://voice.mozilla.org/en/datasets> | CC BY-NC 4.0 (most audio) / CC BY-NC-ND 3.0 (some audio) / CC BY 2.0 (all text) |
 | CHiME-Home | English | 6.8 hours |  | <https://archive.org/details/chime-home> | CC-BY-NC-SA 3.0 |
 | TED-LIUM | English | 118 hours | 685 speakers (36h female / 81h male) | <http://www.openslr.org/7/> | CC-BY-NC-ND 3.0 |
@@ -51,5 +53,3 @@ Feel free to propse additions to the list!
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 | CMU Wilderness | 700 Langs | Alignments distributed without audio or text total:~14,000 hours; per lang: ~20 hours |  | <https://github.com/festvox/datasets-CMU_Wilderness> | Questionable Legality: <https://live.bible.is/terms> |
 | CHiME-5 | English | 50 hours | 48 speakers | <http://spandh.dcs.shef.ac.uk/chime_challenge/data.html> | [CHiME-5 License](http://spandh.dcs.shef.ac.uk/chime_challenge/download.html) |
-| IBM Recorded Debates, release 1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC BY-ND |
-| IBM Recorded Debates, release 2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC BY-ND |
