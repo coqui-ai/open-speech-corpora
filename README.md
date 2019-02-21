@@ -34,13 +34,14 @@ Feel free to propse additions to the list!
 | Google Sinhala | Sinhala |  |  | <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
 | Google Sudanese | Sudanese Arabic |  |  | <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
 | SWC-2017 | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
+| Tatoeba-Eng | English |  hours | 6 speakers | <https://voice.mozilla.org/en/datasets> | CC BY-NC 4.0 (most audio) / CC BY-NC-ND 3.0 (some audio) / CC BY 2.0 (all text) |
 | CHiME-Home | English | 6.8 hours |  | <https://archive.org/details/chime-home> | CC-BY-NC-SA 3.0 |
 | TED-LIUM | English | 118 hours | 685 speakers (36h female / 81h male) | <http://www.openslr.org/7/> | CC-BY-NC-ND 3.0 |
 | TED-LIUM-2 | English | 207 hours | 1242 speakers (66h female / 141h male) | <http://www.openslr.org/19/> | CC-BY-NC-ND 3.0 |
 | TED-LIUM-3 | English | 452 hours | 2028 speakers (134h female / 316h male) | <http://www.openslr.org/51/> | CC-BY-NC-ND 3.0 |
 | Pansori TEDxKR | Korean | 3 hours | 41 speakers | <http://www.openslr.org/58/> | CC-BY-NC-ND 4.0 |
 | Primewords Mandarin | Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | CC-BY-NC-ND 4.0 |
-| VoxForge | English | ~120 hours | ~2966 speakers | <http://www.voxforge.org/home/downloads> | GPL 3.0 |
+| VoxForge | English | ~120 hours | ~2966 speakers | <http://www.voxforge.org/home/downloads> <https://voice.mozilla.org/en/datasets> | GPL 3.0 |
 | AISHELL-1 | Mandarin | 170 hours | 400 speakers | <http://www.openslr.org/33/> | Apache 2.0 |
 | Tunisian_MSA | Modern Standard Arabic (Tunisia) | 11.2 hours | 118 speakers | <http://www.openslr.org/46/> | Apache 2.0 |
 | African Accented French | French | 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0 |
