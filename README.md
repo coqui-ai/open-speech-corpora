@@ -35,7 +35,7 @@ Feel free to propse additions to the list!
 | Google Nepali | Nepali |  |  | <http://www.openslr.org/54/> | CC-BY-SA 4.0 |
 | Google Bengali | Bengali |  |  | <http://www.openslr.org/53/> | CC-BY-SA 4.0 |
 | Google Sinhala | Sinhala |  |  | <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
-| Google Sudanese | Sudanese Arabic |  |  | <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
+| Google Sundanese | Sundanese |  |  | <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
 | SWC-2017 | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
 | IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
