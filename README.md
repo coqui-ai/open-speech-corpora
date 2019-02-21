@@ -23,6 +23,9 @@ Feel free to propse additions to the list!
 | NCHLT Siswati | Siswati | 56 hours | 197 speakers (96 female / 101 male) | <https://repo.sadilar.org/handle/20.500.12185/271> | CC-BY 3.0 |
 | NCHLT Tshivenda | Tshivenda | 56 hours | 208 speakers (83 female / 125 male) | <https://repo.sadilar.org/handle/20.500.12185/276> | CC-BY 3.0 |
 | NCHLT Xitsonga | Xitsonga | 56 hours | 198 speakers (95 female/103 male) | <https://repo.sadilar.org/handle/20.500.12185/277> | CC-BY 3.0 |
+| Lwazi II Cross-lingual Proper Name Corpus | Afrikaans; English; isiZulu; Sesotho | 2 hours 5 mins| 20 speakers | <https://repo.sadilar.org/handle/20.500.12185/445> | CC-BY 3.0 |
+| Lwazi II Proper Name Call Routing Telephone Corpus | English | 2 hours 7 mins | | <https://repo.sadilar.org/handle/20.500.12185/448> | CC-BY 3.0 |
+| Lwazi II Afrikaans Trajectory Tracking Corpus | Afrikaans | 4 hours | one male | <https://repo.sadilar.org/handle/20.500.12185/442> | CC-BY 3.0 |
 | LibriSpeech | English | ~1000 hours | 2484 speakers (1201 female / 1283 male) | <http://www.openslr.org/12/> | CC-BY 4.0 |
 | Zeroth-Korean | Korean | 52.8 hours | 115 speakers | <http://www.openslr.org/40/> | CC-BY 4.0 |
 | Iban | Iban | 8 hours |  | <http://www.openslr.org/24/> <https://github.com/sarahjuan/iban> | CC-BY-SA 2.0 |
