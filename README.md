@@ -19,6 +19,7 @@ Feel free to propse additions to the list!
 | TED-LIUM-3   |English         | 452 hours     | 2028 speakers (134h female + 316h male) |<http://www.openslr.org/51/>|  CC-BY-NC-ND 3.0  |
 |Vystadial	| English; Czech |  41 hours; 15 hours  |       | <http://www.openslr.org/6/> | CC-BY-SA 3.0 US|
 | Yesno     |Hebrew          | 6 mins  | one male    | <http://www.openslr.org/1/> | CC-0 |
+| Free Spoken Digit Dataset     | English          | 2,000 isolated digits  | 4    | <https://github.com/Jakobovski/free-spoken-digit-dataset> | CC-BY-SA 4.0 |
 |Iban   |Iban         | 8 hours      |    |<http://www.openslr.org/24/> <https://github.com/sarahjuan/iban>|  CC-BY-SA 2.0 |
 |Pansori TEDxKR | Korean| 3 hours| 41 speakers |<http://www.openslr.org/58/>| CC-BY-NC-ND 4.0|
 |African Accented French | French| 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0|
