@@ -20,7 +20,17 @@ Feel free to propse additions to the list!
 | TED-LIUM-3   |English         | 452 hours     | 2028 speakers (134h female + 316h male) |<http://www.openslr.org/51/>|  CC-BY-NC-ND 3.0  |
 |Vystadial	| English; Czech |  41 hours; 15 hours  |       | <http://www.openslr.org/6/> | CC-BY-SA 3.0 US|
 | Yesno     |Hebrew          | 6 mins  | one male    | <http://www.openslr.org/1/> | CC-0 |
-|  NCHLT Afrikaans Speech Corpus   | Afrikaans          | 56 hours   | 210 speakers (98 female / 112 male)    | <https://repo.sadilar.org/handle/20.500.12185/280> | CC-BY 3.0 |
+|  NCHLT Afrikaans   | Afrikaans          | 56 hours   | 210 speakers (98 female / 112 male)    | <https://repo.sadilar.org/handle/20.500.12185/280> | CC-BY 3.0 |
+|  NCHLT English   | English          | 56 hours   | 210 speakers (100 female / 110 male)    | <https://repo.sadilar.org/handle/20.500.12185/274> | CC-BY 3.0 |
+|  NCHLT isiNdebele   | isiNdebele          | 56 hours   | 148 speakers (78 female / 70 male)  | <https://repo.sadilar.org/handle/20.500.12185/272> | CC-BY 3.0 |
+|  NCHLT isiXhosa   | isiXhosa          | 56 hours   | 209 speakers (106 female / 103 male)   | <https://repo.sadilar.org/handle/20.500.12185/279> | CC-BY 3.0 |
+|  NCHLT isiZulu   |   isiZulu        | 56 hours   | 210 speakers (98 female / 112 male) | <https://repo.sadilar.org/handle/20.500.12185/275> | CC-BY 3.0 |
+|  NCHLT Sepedi   |     Sepedi      | 56 hours   | 210 speakers (100 female / 110 male) | <https://repo.sadilar.org/handle/20.500.12185/270> | CC-BY 3.0 |
+|  NCHLT Sesotho   |    Sesotho       | 56 hours   | 	210 speakers (113 female / 97 male) | <https://repo.sadilar.org/handle/20.500.12185/278> | CC-BY 3.0 |
+|  NCHLT Setswana  |    Setswana   | 56 hours   | 	210 speakers (109 female / 101 male)  | <https://repo.sadilar.org/handle/20.500.12185/281> | CC-BY 3.0 |
+|  NCHLT Siswati  |  Siswati  | 56 hours   | 	197 speakers (96 female / 101 male)  | <https://repo.sadilar.org/handle/20.500.12185/271> | CC-BY 3.0 |
+|  NCHLT Tshivenda  |  Tshivenda  | 56 hours   | 	208 speakers (83 female / 125 male)  | <https://repo.sadilar.org/handle/20.500.12185/276> | CC-BY 3.0 |
+|  NCHLT Xitsonga  | Xitsonga   | 56 hours   | 	198 speakers (95 female/103 male)  | <https://repo.sadilar.org/handle/20.500.12185/277> | CC-BY 3.0 |
 | Free Spoken Digit Dataset     | English          | 2,000 isolated digits  | 4    | <https://github.com/Jakobovski/free-spoken-digit-dataset> | CC-BY-SA 4.0 |
 |Iban   |Iban         | 8 hours      |    |<http://www.openslr.org/24/> <https://github.com/sarahjuan/iban>|  CC-BY-SA 2.0 |
 |Pansori TEDxKR | Korean| 3 hours| 41 speakers |<http://www.openslr.org/58/>| CC-BY-NC-ND 4.0|
