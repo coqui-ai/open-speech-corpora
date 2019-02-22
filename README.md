@@ -59,14 +59,6 @@ Feel free to propse additions to the list!
 | IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 
-
-## [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
-
-| CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
-| --- | --- | --- | --- | --- | --- |
-| Tatoeba-Eng | English |  hours | 6 speakers | <https://voice.mozilla.org/en/datasets> | CC BY-NC 4.0 (most audio) / CC BY-NC-ND 3.0 (some audio) / CC BY 2.0 (all text) |
-
-
 ## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
@@ -78,6 +70,7 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
+| Tatoeba-Eng | English | ~250 hours (rough estimate) | 6 speakers | <https://voice.mozilla.org/en/datasets> | CC BY-NC 4.0 (some audio) / CC BY-NC-ND 3.0 (most audio) / CC BY 2.0 (all text) |
 | TED-LIUM | English | 118 hours | 685 speakers (36h female / 81h male) | <http://www.openslr.org/7/> | CC-BY-NC-ND 3.0 |
 | TED-LIUM-2 | English | 207 hours | 1242 speakers (66h female / 141h male) | <http://www.openslr.org/19/> | CC-BY-NC-ND 3.0 |
 | TED-LIUM-3 | English | 452 hours | 2028 speakers (134h female / 316h male) | <http://www.openslr.org/51/> | CC-BY-NC-ND 3.0 |
