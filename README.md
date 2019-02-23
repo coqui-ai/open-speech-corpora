@@ -36,6 +36,7 @@ Feel free to propse additions to the list!
 | Lwazi II Afrikaans Trajectory Tracking Corpus | Afrikaans | 4 hours | one male | <https://repo.sadilar.org/handle/20.500.12185/442> | CC-BY 3.0 |
 | LibriSpeech | English | ~1000 hours | 2484 speakers (1201 female / 1283 male) | <http://www.openslr.org/12/> | CC-BY 4.0 |
 | Zeroth-Korean | Korean | 52.8 hours | 115 speakers | <http://www.openslr.org/40/> | CC-BY 4.0 |
+| Speech Commands | English | 17.8 hours  | >1,000 speakers | <https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html> | CC-BY 4.0 |
 
 
 ## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
