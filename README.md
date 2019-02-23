@@ -8,12 +8,14 @@ However, not all corpora listed here meet those criteria, but all corpora here a
 
 Feel free to propse additions to the list!
 
+
 ## [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | CommonVoice-1 | English | ~500 hours |  | <https://voice.mozilla.org/en/datasets> | CC-0 |
 | Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | CC-0 |
+
 
 ## [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
@@ -47,11 +49,11 @@ Feel free to propse additions to the list!
 | Iban | Iban | 8 hours |  | <http://www.openslr.org/24/> <https://github.com/sarahjuan/iban> | CC-BY-SA 2.0 |
 | Vystadial | English; Czech | 41 hours; 15 hours |  | <http://www.openslr.org/6/> | CC-BY-SA 3.0 US |
 | Free Spoken Digit Dataset | English | 2,000 isolated digits | 4 speakers | <https://github.com/Jakobovski/free-spoken-digit-dataset> | CC-BY-SA 4.0 |
-| Google Javanese | Javanese |  |  | <http://www.openslr.org/35/> | CC-BY-SA 4.0 |
-| Google Nepali | Nepali |  |  | <http://www.openslr.org/54/> | CC-BY-SA 4.0 |
-| Google Bengali | Bengali |  |  | <http://www.openslr.org/53/> | CC-BY-SA 4.0 |
-| Google Sinhala | Sinhala |  |  | <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
-| Google Sundanese | Sundanese |  |  | <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
+| Google Javanese | Javanese | 296 hours| 1019 speakers| <http://www.openslr.org/35/> | CC-BY-SA 4.0 |
+| Google Nepali | Nepali | 165 hours| 527 speakers| <http://www.openslr.org/54/> | CC-BY-SA 4.0 |
+| Google Bengali | Bengali | 229 hours| 508 speakers| <http://www.openslr.org/53/> | CC-BY-SA 4.0 |
+| Google Sinhala | Sinhala | 224 hours| 478 speakers| <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
+| Google Sundanese | Sundanese | 333 hours| 542 speakers| <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
 | SWC-2017 | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
 
 
@@ -61,6 +63,7 @@ Feel free to propse additions to the list!
 | --- | --- | --- | --- | --- | --- |
 | IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
+
 
 ## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -97,15 +100,11 @@ Feel free to propse additions to the list!
 | African Accented French | French | 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0 |
 
 
-
-
 ## [MIT License](https://opensource.org/licenses/MIT)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
-
-
 
 
 ## Custom Licenses
