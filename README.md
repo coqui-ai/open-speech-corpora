@@ -19,6 +19,7 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
+| African Speech Technology English-English Speech Corpus | English | ~21 hours | | <https://repo.sadilar.org/handle/20.500.12185/283> | [CC-BY 2.5 South Africa](https://creativecommons.org/licenses/by/2.5/za/legalcode) |
 | NCHLT Afrikaans | Afrikaans | 56 hours | 210 speakers (98 female / 112 male) | <https://repo.sadilar.org/handle/20.500.12185/280> | CC-BY 3.0 |
 | NCHLT English | English | 56 hours | 210 speakers (100 female / 110 male) | <https://repo.sadilar.org/handle/20.500.12185/274> | CC-BY 3.0 |
 | NCHLT isiNdebele | isiNdebele | 56 hours | 148 speakers (78 female / 70 male) | <https://repo.sadilar.org/handle/20.500.12185/272> | CC-BY 3.0 |
