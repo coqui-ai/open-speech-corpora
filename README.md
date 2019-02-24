@@ -108,7 +108,7 @@ Feel free to propse additions to the list!
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 
 
-## Custom Licenses
+## [Custom License](https://en.wikipedia.org/wiki/Copyright)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
