@@ -13,7 +13,24 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| CommonVoice-1 | English | ~500 hours |  | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice English | English | 582 hours (validated); 803 hours (total) | 33,541 speakers (reported: 10% female / 41% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice German | German | 140 hours (validated); 146 hours (total) | 2,249 speakers (reported: 5% female / 76% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice French | French | 74 hours (validated); 79 hours (total) | 1,697 speakers (reported: 7% female / 72% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Welsh | Welsh | 21 hours (validated); 22 hours (total) | 365 speakers (reported: 26% female / 43% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Breton | Breton | 2 hours (validated); 7 hours (total) | 82 speakers (reported: 2% female / 43% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Chuvash | Chuvash | <1 hour (validated); 2 hours (total) | 33 speakers (reported: 0% female / 46% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Turkish | Turkish | 5 hours (validated); 6 hours (total) | 203 speakers (reported: 7% female / 75% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Tatar | Tatar | 20 hours (validated); 20 hours (total) | 117 speakers (reported: 2% female / 80% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Kyrgyz | Kyrgyz | 5 hours (validated); 6 hours (total) | 63 speakers (reported: 6% female / 80% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Irish | Irish | 1 hour (validated); 1 hour (total) | 30 speakers (reported: 22% female / 57% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Kabyle | Kabyle | 92 hours (validated); 98 hours (total) | 382 speakers (reported: 17% female / 53% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Catalan | Catalan | 92 hours (validated); 98 hours (total) | 1,639 speakers (reported: 44% female / 38% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Chinese (Taiwan) | Mandarin (Taiwan) | 19 hours (validated); 28 hours (total) | 695 speakers (reported: 35% female /  38% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Slovenian | Slovenian | 1 hour (validated); 3 hours (total) | 18 speakers (reported: 17% female / 82% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Italian | Italian | 15 hours (validated); 19 hours (total) | 313 speakers (reported: 7% female / 67% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Dutch | Dutch | 12 hours (validated); 13 hours (total) | 373 speakers (reported: 2% female / 74% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Hakha Chin | Hakha Chin | 2 hours (validated); 4 hours (total) | 253 speakers (reported: 22% female / 26% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
+| CommonVoice Esperanto | Esperanto | 4 hours (validated); 6 hours (total) | 53 speakers (reported: 10% female / 21% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
 | Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | CC-0 |
 
 
