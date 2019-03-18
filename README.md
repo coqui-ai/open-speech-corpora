@@ -38,6 +38,7 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
+| The Malromur Corpus | Icelandic | 152 hours | 563 speakers | <http://www.malfong.is/index.php?dlid=65&lang=en> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Telecooperation German Corpus for Kinect | German | ~35 hours | ~180 speakers | <http://www.repository.voxforge1.org/downloads/de/german-speechdata-TUDa-2015.tar.gz> | [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
 | African Speech Technology English-English Speech Corpus | English | ~21 hours | | <https://repo.sadilar.org/handle/20.500.12185/283> | [CC-BY 2.5 South Africa](https://creativecommons.org/licenses/by/2.5/za/legalcode) |
 | African Speech Technology isiXhosa Speech Corpus | isiXhosa | ~26 hours | | <https://repo.sadilar.org/handle/20.500.12185/305> | [CC-BY 2.5 South Africa](https://creativecommons.org/licenses/by/2.5/za/legalcode) |
