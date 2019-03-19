@@ -32,7 +32,7 @@ Feel free to propse additions to the list!
 | CommonVoice Hakha Chin | Hakha Chin | 2 hours (validated); 4 hours (total) | 253 speakers (reported: 22% female / 26% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
 | CommonVoice Esperanto | Esperanto | 4 hours (validated); 6 hours (total) | 53 speakers (reported: 10% female / 21% male) | <https://voice.mozilla.org/en/datasets> | CC-0 |
 | Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | CC-0 |
-| LJ Speech Corpus | English | ~24 hours | one male | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | CC-0 |
+| LJ Speech Corpus | English | ~24 hours | [one female](https://librivox.org/reader/11049) | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | CC-0 |
 
 ## [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
