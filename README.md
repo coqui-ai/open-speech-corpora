@@ -92,8 +92,8 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| CHiME-Home | English | 6.8 hours |  | <https://archive.org/details/chime-home> | CC-BY-NC-SA 3.0 |
-
+| CHiME-Home | English | 6.8 hours |  | <https://archive.org/details/chime-home> | [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
+| Cameroon Pidgin English Corpus | Cameroon Pidgin English | ~17 hours |  | <http://ota.ox.ac.uk/text/2563.zip> | [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 
 ## [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
