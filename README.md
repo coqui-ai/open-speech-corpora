@@ -62,7 +62,7 @@ Feel free to propse additions to the list!
 | LibriSpeech | English | ~1000 hours | 2484 speakers (1201 female / 1283 male) | <http://www.openslr.org/12/> | CC-BY 4.0 |
 | Zeroth-Korean | Korean | 52.8 hours | 115 speakers | <http://www.openslr.org/40/> | CC-BY 4.0 |
 | Speech Commands | English | 17.8 hours  | >1,000 speakers | <https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html> | CC-BY 4.0 |
-
+| ParlamentParla | Catalan | 320 hours  |  | <https://www.openslr.org/59/> | CC-BY 4.0 |
 
 ## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -87,6 +87,11 @@ Feel free to propse additions to the list!
 | IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 
+## [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+
+| CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
+| --- | --- | --- | --- | --- | --- |
+| TV3Parla | Catalan | 240 hours  |  | <http://laklak.eu/share/tv3_0.3.tar.gz> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 ## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
