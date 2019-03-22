@@ -120,7 +120,9 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| VoxForge | English | ~120 hours | ~2966 speakers | <http://www.voxforge.org/home/downloads> <https://voice.mozilla.org/en/datasets> | GNU-GPL 3.0 |
+| VoxForge | English | ~120 hours | ~2966 speakers | <http://www.repository.voxforge1.org/downloads/en/Trunk/Audio/Main/16kHz_16bit/> <https://voice.mozilla.org/en/datasets> | GNU-GPL 3.0 |
+| VoxForge | Russian |  | | <http://www.repository.voxforge1.org/downloads/ru/Trunk/Audio/Main/16kHz_16bit/> <http://www.repository.voxforge1.org/downloads/Russian/Trunk/Audio/Main/16kHz_16bit/>| GNU-GPL 3.0 |
+| VoxForge | German |  | | <http://www.repository.voxforge1.org/downloads/de/Trunk/Audio/Main/16kHz_16bit/> | GNU-GPL 3.0 |
 
 
 ## [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
