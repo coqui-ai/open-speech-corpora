@@ -1,10 +1,10 @@
 # Open ASR Corpora
 
-A list of open(ish) corpora for Automatic Speech Recognition research and development.
+A list of open corpora for Automatic Speech Recognition research and development.
 
 This list has a preference for free (i.e. no $ cost) and truly open corpora (i.e. some kind of [Creative Commons license](https://en.wikipedia.org/wiki/Creative_Commons_license)).
 
-However, not all corpora listed here meet those criteria, but all corpora here are accessible and usable for research and/or commercial use. Some paid corpora with restrictive licenses may be included here (i.e. from the [LDC](https://www.ldc.upenn.edu/)), given their wide use in research and industry.
+However, not all corpora listed here meet those criteria, but all corpora here are accessible and usable for research and/or commercial use.
 
 Feel free to propse additions to the list!
 
