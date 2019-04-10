@@ -77,7 +77,7 @@ Feel free to propse additions to the list!
 | Google Bengali | Bengali | 229 hours| 508 speakers| <http://www.openslr.org/53/> | CC-BY-SA 4.0 |
 | Google Sinhala | Sinhala | 224 hours| 478 speakers| <http://www.openslr.org/52/> | CC-BY-SA 4.0 |
 | Google Sundanese | Sundanese | 333 hours| 542 speakers| <http://www.openslr.org/36/> | CC-BY-SA 4.0 |
-| SWC-2017 | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
+| Spokend Wikipedia Corpus (SWC-2017) | English; German; Dutch | 182 hours; 249 hours; 79 hours | 395 speakers; 339 speakers; 145 speakers | <https://nats.gitlab.io/swc/> | CC-BY-SA 4.0 |
 | Chuvash TTS | Chuvash | 4 hours | 1 speaker | <https://github.com/ftyers/Turkic_TTS> | CC-BY-SA 4.0  |
 
 
