@@ -129,6 +129,9 @@ Feel free to propse additions to the list!
 | AISHELL-1 | Mandarin | 170 hours | 400 speakers | <http://www.openslr.org/33/> | Apache 2.0 |
 | Tunisian_MSA | Modern Standard Arabic (Tunisia) | 11.2 hours | 118 speakers | <http://www.openslr.org/46/> | Apache 2.0 |
 | African Accented French | French | 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0 |
+| THCHS-30 | Mandarin Chinese | 33.57 hours (13,389 utterances) | 40 speakers (31 female; 9 male) | <http://www.openslr.org/18/> | Apache 2.0 |
+
+
 
 
 ## [MIT License](https://opensource.org/licenses/MIT)
