@@ -64,6 +64,7 @@ Feel free to propse additions to the list!
 |  SIWIS | French | ~10 hours  | one female | <http://datashare.is.ed.ac.uk/download/DS_10283_2353.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  VCTK | English | 44 hours | 109 speakers  | <http://datashare.is.ed.ac.uk/download/DS_10283_2651.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  LibriTTS | English | 586 hours | 2,456 speakers (1,185 female / 1,271 male)  | <http://www.openslr.org/60/> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+|  Augmented LibriSpeech | Audio (English); Text (English, French) | 236 hours | | <https://persyval-platform.univ-grenoble-alpes.fr/DS91/detaildataset> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 
 ## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
