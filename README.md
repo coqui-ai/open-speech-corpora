@@ -144,10 +144,26 @@ Feel free to propse additions to the list!
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 
 
+## [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+
+| CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
+| --- | --- | --- | --- | --- | --- |
+| M-AILABS German Corpus | German | 237 hours and 22 minutes |  | <http://www.caito.de/data/Training/stt_tts/de_DE.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS Queen's English Corpus | Queen's English | 45 hours and 35 minutes |  | <http://www.caito.de/data/Training/stt_tts/en_UK.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS US English Corpus | American English | 102 hours and 7 minutes |  | <http://www.caito.de/data/Training/stt_tts/en_US.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS Spanish Corpus | Spanish Spanish | 108 hours and 34 minutes |  | <http://www.caito.de/data/Training/stt_tts/es_ES.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS Italian Corpus | Italian | 127 hours and 40 minutes |  | <http://www.caito.de/data/Training/stt_tts/it_IT.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS Ukrainian Corpus | Ukrainian | 87 hours and 8 minutes |  | <http://www.caito.de/data/Training/stt_tts/uk_UK.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS Russian Corpus | Russian | 46 hours and 47 minutes |  | <http://www.caito.de/data/Training/stt_tts/ru_RU.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS French-v0.9 Corpus | French | 190 hours and 30 minutes |  | <http://www.caito.de/data/Training/stt_tts/fr_FR.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+| M-AILABS Polish Corpus | Polish | 53 hours and 50 minutes |  | <http://www.caito.de/data/Training/stt_tts/pl_PL.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
+
 ## [Custom License](https://en.wikipedia.org/wiki/Copyright)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
+| Fluent Speech Commands Corpus | English | 19 hours (30,043 utterances) | 97 speakers | <http://fluent.ai:2052/jf8398hf30f0381738rucj3828chfdnchs.tar.gz> | [Fluent Speech Commands Public License](https://groups.google.com/a/fluent.ai/forum/#!msg/fluent-speech-commands/MXh_7Y-3QC8/9i2pHPW9AwAJ) |
 | CMU Wilderness | 700 Langs | Alignments distributed without audio or text total:~14,000 hours; per lang: ~20 hours |  | <https://github.com/festvox/datasets-CMU_Wilderness> | Questionable Legality: <https://live.bible.is/terms> |
 | CHiME-5 | English | 50 hours | 48 speakers | <http://spandh.dcs.shef.ac.uk/chime_challenge/data.html> | [CHiME-5 License](http://spandh.dcs.shef.ac.uk/chime_challenge/download.html) |
 | FalaBrasil-LAPS-Constituicao | Brazilian-Portuguese | 9 hours | 1 speaker | <https://drive.google.com/uc?export=download&confirm=SrvW&id=1Nf849u-27CYRzJqedLaI-FaZfMRO7FT> | ["Bases de áudio transcrito e bases de texto normalizadas (sem pontuação, com números escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estão sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
@@ -158,13 +174,3 @@ Feel free to propse additions to the list!
 | Microsoft Speech Language Translation Corpus | English; Chinese; Japanese| | | <https://msropendata.com/datasets/54813518-4ea6-4c39-9bb2-b0d1e5f0c187> | Non-Commercial [Microsoft Research Data License Agreement](https://msrodr-api.azurewebsites.net//licenses/2f933be3-284d-500b-7ea3-2aa2fd0f1bb2/file) |
 | Hey Snips Corpus | English | 11K positive "Hey Snips" (~4.4 hours) and 87K negative (~89 hours) utterances | 2215 speakers (positive & negative) and 4028 speakers (negative only) | <https://research.snips.ai/datasets/keyword-spotting> | [Snips Data License](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) |
 | Snips SLU Corpus | English; French | 1660 "Smart Lights EN" (~1.3 hours), 1286 "Smart Speaker EN" (~55 minutes), 1138 "Smart Speaker FR" (~50 minutes) utterances | English: 69 speakers; French: 30 speakers | <https://research.snips.ai/datasets/spoken-language-understanding> | [Snips Data License](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) |
-| M-AILABS German Corpus | German | 237 hours and 22 minutes |  | <http://www.caito.de/data/Training/stt_tts/de_DE.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS Queen's English Corpus | Queen's English | 45 hours and 35 minutes |  | <http://www.caito.de/data/Training/stt_tts/en_UK.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS US English Corpus | American English | 102 hours and 7 minutes |  | <http://www.caito.de/data/Training/stt_tts/en_US.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS Spanish Corpus | Spanish Spanish | 108 hours and 34 minutes |  | <http://www.caito.de/data/Training/stt_tts/es_ES.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS Italian Corpus | Italian | 127 hours and 40 minutes |  | <http://www.caito.de/data/Training/stt_tts/it_IT.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS Ukrainian Corpus | Ukrainian | 87 hours and 8 minutes |  | <http://www.caito.de/data/Training/stt_tts/uk_UK.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS Russian Corpus | Russian | 46 hours and 47 minutes |  | <http://www.caito.de/data/Training/stt_tts/ru_RU.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS French-v0.9 Corpus | French | 190 hours and 30 minutes |  | <http://www.caito.de/data/Training/stt_tts/fr_FR.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| M-AILABS Polish Corpus | Polish | 53 hours and 50 minutes |  | <http://www.caito.de/data/Training/stt_tts/pl_PL.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) |
-| Fluent Speech Commands Corpus | English | 19 hours (30,043 utterances) | 97 speakers | <http://fluent.ai:2052/jf8398hf30f0381738rucj3828chfdnchs.tar.gz> | [Fluent Speech Commands Public License](https://groups.google.com/a/fluent.ai/forum/#!msg/fluent-speech-commands/MXh_7Y-3QC8/9i2pHPW9AwAJ) |
