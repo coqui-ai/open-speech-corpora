@@ -36,6 +36,7 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
+| ARU Speech Corpus | English (UK) | 720 utterances / speaker | 12 (6 femals; 6 male) | <http://datacat.liverpool.ac.uk/681/1/ARU_Speech_Corpus_v1_0.zip> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Althingi Parliamentary Speech Corpus  | Icelandic | 542 hours and 25 minutes | 196 speakers | <http://www.malfong.is/index.php?dlid=73&lang=en> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Alþingisumræður Parliamentary Speech Corpus | Icelandic | ~21 hours | | <http://www.malfong.is/index.php?dlid=8&lang=en> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Hjal Corpus | Icelandic | ~41,000 recordings | 883 speakers | <http://www.malfong.is/index.php?dlid=5&lang=en> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
