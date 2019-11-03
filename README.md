@@ -96,6 +96,8 @@ Feel free to propse additions to the list!
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | TV3Parla | Catalan | 240 hours  |  | <http://laklak.eu/share/tv3_0.3.tar.gz> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Russian Open STT Corpus | Russian | ~7000 hours  |  | <https://github.com/snakers4/open_stt/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_stt/blob/master/LICENSE)|
+| Russian Open TTS Corpus | Russian | 145 hours  | 3 males | <https://github.com/snakers4/open_tts/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_tts/blob/master/LICENSE)|
 
 ## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
