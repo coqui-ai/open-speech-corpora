@@ -63,7 +63,7 @@ Feel free to propse additions to the list!
 | Speech Commands | English | 17.8 hours  | >1,000 speakers | <https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html> | CC-BY 4.0 |
 | ParlamentParla | Catalan | 320 hours  |  | <https://www.openslr.org/59/> | CC-BY 4.0 |
 |  SIWIS | French | ~10 hours  | one female | <http://datashare.is.ed.ac.uk/download/DS_10283_2353.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
-|  VCTK | English | 44 hours | 109 speakers  | <http://datashare.is.ed.ac.uk/download/DS_10283_2651.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+|  VCTK | English | 44 hours | 109 speakers  | <http://datashare.is.ed.ac.uk/download/DS_10283_3443.zip> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  LibriTTS | English | 586 hours | 2,456 speakers (1,185 female / 1,271 male)  | <http://www.openslr.org/60/> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  Augmented LibriSpeech | Audio (English); Text (English, French) | 236 hours | | <https://persyval-platform.univ-grenoble-alpes.fr/DS91/detaildataset> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  Helsinki Prosody Corpus | English | 262.5 hours | 1,230 speakers | <https://github.com/Helsinki-NLP/prosody> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
