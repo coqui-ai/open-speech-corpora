@@ -147,7 +147,10 @@ Feel free to propse additions to the list!
 | Tunisian_MSA | Modern Standard Arabic (Tunisia) | 11.2 hours | 118 speakers | <http://www.openslr.org/46/> | Apache 2.0 |
 | African Accented French | French | 22 hours | 232 speakers | <http://www.openslr.org/57/> | Apache 2.0 |
 | THCHS-30 | Mandarin Chinese | 33.57 hours (13,389 utterances) | 40 speakers (31 female; 9 male) | <http://www.openslr.org/18/> | Apache 2.0 |
-
+| Living Audio Dataset - Dutch | Dutch | 1 hour | 1 speaker | <https://github.com/Idlak/Living-Audio-Dataset> | Apache 2.0 |
+| Living Audio Dataset - English | English | 1 hour | 1 speaker | <https://github.com/Idlak/Living-Audio-Dataset> | Apache 2.0 |
+| Living Audio Dataset - Irish | Irish | 1 hour | 1 speaker | <https://github.com/Idlak/Living-Audio-Dataset> | Apache 2.0 |
+| Living Audio Dataset - Russian | Russian | 1 hour | 1 speaker | <https://github.com/Idlak/Living-Audio-Dataset> | Apache 2.0 |
 
 
 
