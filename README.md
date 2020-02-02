@@ -78,6 +78,7 @@ Feel free to propse additions to the list!
 |  LibriTTS | English | 586 hours | 2,456 speakers (1,185 female / 1,271 male)  | <http://www.openslr.org/60/> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  Augmented LibriSpeech | Audio (English); Text (English, French) | 236 hours | | <https://persyval-platform.univ-grenoble-alpes.fr/DS91/detaildataset> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  Helsinki Prosody Corpus | English | 262.5 hours | 1,230 speakers | <https://github.com/Helsinki-NLP/prosody> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+|Tuva Speech Database | Norwegian | 24 hours | 40 speakers | https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-44&lang= |  [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 
 ## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
