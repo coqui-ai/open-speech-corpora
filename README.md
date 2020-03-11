@@ -50,8 +50,8 @@ Feel free to propse additions to the list!
 | Common Voice Votic | Votic | <1 hours (validated); <1 hours (total) | 2 speakers (reported: 0% female / 0% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Common Voice Abkhaz | Abkhaz | <1 hours (validated); <1 hours (total) | 3 speakers (reported: 2% female / 98% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Common Voice Chinese (Hong Kong) | Chinese (Hong Kong) | <1 hours (validated); <1 hours (total) | 15 speakers (reported: 24% female / 37% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
-| Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | CC-0 |
-| LJ Speech Corpus | English | ~24 hours | [one female](https://librivox.org/reader/11049) | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | CC-0 |
+| Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
+| LJ Speech Corpus | English | ~24 hours | [one female](https://librivox.org/reader/11049) | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 
 ## [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
