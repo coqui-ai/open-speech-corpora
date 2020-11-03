@@ -149,7 +149,7 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| DiPCo | English | ~5 hours | 32 speakers (13 female; 13 male) | <https://s3.amazonaws.com/dipco/DiPCo.tgz> | [CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/) |
+| DiPCo | English | ~5 hours | 32 speakers (13 female; 19 male) | <https://s3.amazonaws.com/dipco/DiPCo.tgz> | [CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/) |
 
 ## [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
 
