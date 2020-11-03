@@ -144,6 +144,13 @@ Feel free to propse additions to the list!
 | Primewords Mandarin | Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | CC-BY-NC-ND 4.0 |
 | MuST-C v1.0 | Audio (English); Text (Dutch, French, German, Italian, Portuguese, Romanian, Russian, Spanish) | 408, 504, 492, 465, 442, 385, 432, 489 hours per language pair | | <https://ict.fbk.eu/must-c-release-v1-0/> | CC-BY-NC-ND 4.0 |
 
+
+## [CDLA-Permissive](https://cdla.io/permissive-1-0/)
+
+| CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
+| --- | --- | --- | --- | --- | --- |
+| DiPCo | English | ~5 hours | 32 speakers (13 female; 13 male) | <https://s3.amazonaws.com/dipco/DiPCo.tgz> | [CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/) |
+
 ## [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
