@@ -2,7 +2,7 @@
 
 A list of open speech corpora for Speech Technology research and development.
 
-This list has a preference for free (i.e. no $ cost) and truly open corpora (e.g. [Creative Commons license](https://en.wikipedia.org/wiki/Creative_Commons_license) or [Community Data License Agreement](https://en.wikipedia.org/wiki/Linux_Foundation#Community_Data_License_Agreement_%28CDLA%29)). Not all these corpora may meet those criteria, but all the following corpora are accessible and usable for research and/or commercial use.
+This list has a preference for free (i.e. no $ cost) and truly open corpora (e.g. released under a [Creative Commons license](https://en.wikipedia.org/wiki/Creative_Commons_license) or a [Community Data License Agreement](https://en.wikipedia.org/wiki/Linux_Foundation#Community_Data_License_Agreement_%28CDLA%29)). Not all these corpora may meet those criteria, but all the following corpora are accessible and usable for research and/or commercial use.
 
 Feel free to propse additions to the list!
 
