@@ -7,7 +7,7 @@ This list has a preference for free (i.e. no $ cost) and truly open corpora (e.g
 Feel free to propse additions to the list!
 
 
-## [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+## :scroll: [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Feel free to propse additions to the list!
 | NB Tale – Speech Database for Norwegian | Norwegian | 7,600 utterances + ~12 hours | 380 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-31/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Norwegian Parliamentary Speech Corpus (v0.1) | Norwegian | ~59 hours | 203 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 
-## [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+## :scroll: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Feel free to propse additions to the list!
 | COERLL Kʼicheʼ corpus | Kʼicheʼ | 34 minutes | ? speakers | https://cl.indiana.edu/~ftyers/resources/utexas-kiche-audio.tar.gz | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 | Timers and Such v0.1 | English (synthetic: US, real: various nationalities) | synthetic: 172 hours, real: 0.29 hours | 21 synthetic, 11 real | https://zenodo.org/record/4110812#.X9j0RmBOkYM | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 
-## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+## :scroll: [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -122,14 +122,14 @@ Feel free to propse additions to the list!
 | Google Malayalam | Malayalam | 3.02 hours| 24 speakers| <http://www.openslr.org/63/> | CC-BY-SA 4.0 |
 
 
-## [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+## :scroll: [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 
-## [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+## :scroll: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -137,14 +137,14 @@ Feel free to propse additions to the list!
 | Russian Open STT Corpus | Russian | ~10,000 hours public, ~10,000 more upon request  |  | <https://github.com/snakers4/open_stt/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [exceptions](https://github.com/snakers4/open_stt/blob/master/LICENSE)|
 | Russian Open TTS Corpus | Russian | 145 hours  | 3 males | <https://github.com/snakers4/open_tts/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_tts/blob/master/LICENSE)|
 
-## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## :scroll: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | CHiME-Home | English | 6.8 hours |  | <https://archive.org/details/chime-home> | [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 | Cameroon Pidgin English Corpus | Cameroon Pidgin English | ~17 hours |  | <http://ota.ox.ac.uk/text/2563.zip> | [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 
-## [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+## :scroll: [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -157,13 +157,13 @@ Feel free to propse additions to the list!
 | MuST-C v1.0 | Audio (English); Text (Dutch, French, German, Italian, Portuguese, Romanian, Russian, Spanish) | 408, 504, 492, 465, 442, 385, 432, 489 hours per language pair | | <https://ict.fbk.eu/must-c-release-v1-0/> | CC-BY-NC-ND 4.0 |
 
 
-## [CDLA-Permissive](https://cdla.io/permissive-1-0/)
+## :scroll: [CDLA-Permissive](https://cdla.io/permissive-1-0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | DiPCo | English | ~5 hours | 32 speakers (13 female; 19 male) | <https://s3.amazonaws.com/dipco/DiPCo.tgz> | [CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/) |
 
-## [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
+## :scroll: [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -172,7 +172,7 @@ Feel free to propse additions to the list!
 | VoxForge | German |  | | <http://www.repository.voxforge1.org/downloads/de/Trunk/Audio/Main/16kHz_16bit/> | GNU-GPL 3.0 |
 
 
-## [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
+## :scroll: [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -187,14 +187,14 @@ Feel free to propse additions to the list!
 
 
 
-## [MIT License](https://opensource.org/licenses/MIT)
+## :scroll: [MIT License](https://opensource.org/licenses/MIT)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 
 
-## [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+## :scroll: [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
@@ -209,7 +209,7 @@ Feel free to propse additions to the list!
 | M-AILABS French-v0.9 Corpus | French | 190 hours and 30 minutes |  | <http://www.caito.de/data/Training/stt_tts/fr_FR.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
 | M-AILABS Polish Corpus | Polish | 53 hours and 50 minutes |  | <http://www.caito.de/data/Training/stt_tts/pl_PL.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
 
-## [Custom License](https://en.wikipedia.org/wiki/Copyright)
+## :scroll: [Custom License](https://en.wikipedia.org/wiki/Copyright)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
