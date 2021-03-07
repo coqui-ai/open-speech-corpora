@@ -1,4 +1,4 @@
-# Open Speech Corpora
+# :gem: Open Speech Corpora
 
 A list of open speech corpora for Speech Technology research and development.
 
