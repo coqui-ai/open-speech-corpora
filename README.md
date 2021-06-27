@@ -50,6 +50,7 @@ Feel free to propse additions to the list!
 | Common Voice Votic | Votic | <1 hours (validated); <1 hours (total) | 2 speakers (reported: 0% female / 0% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Common Voice Abkhaz | Abkhaz | <1 hours (validated); <1 hours (total) | 3 speakers (reported: 2% female / 98% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Common Voice Chinese (Hong Kong) | Chinese (Hong Kong) | <1 hours (validated); <1 hours (total) | 15 speakers (reported: 24% female / 37% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
+| Common Voice Czech | Czech | 36 hours (validated); 45 hours (total) | 353 speakers (reported: 2% female / 69% male) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | LJ Speech Corpus | English | ~24 hours | [one female](https://librivox.org/reader/11049) | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | NST Danish ASR Database | Danish | 229,992 utterances | 616 speakers | original: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-19/>, reorganized: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-55/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
@@ -102,13 +103,15 @@ Feel free to propse additions to the list!
 |Tuva Speech Database | Norwegian | 24 hours | 40 speakers | https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-44&lang= |  [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 | COERLL Kʼicheʼ corpus | Kʼicheʼ | 34 minutes | ? speakers | https://cl.indiana.edu/~ftyers/resources/utexas-kiche-audio.tar.gz | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 | Timers and Such v0.1 | English (synthetic: US, real: various nationalities) | synthetic: 172 hours, real: 0.29 hours | 21 synthetic, 11 real | https://zenodo.org/record/4110812#.X9j0RmBOkYM | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+| Large Corpus of Czech Parliament Plenary Hearings | Czech | 444 hours | | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3126> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 
 ## 📜 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | Iban | Iban | 8 hours |  | <http://www.openslr.org/24/> <https://github.com/sarahjuan/iban> | CC-BY-SA 2.0 |
-| Vystadial | English; Czech | 41 hours; 15 hours |  | <http://www.openslr.org/6/> | CC-BY-SA 3.0 US |
+| Vystadial 2013 | English; Czech | 41 hours; 15 hours |  | <http://www.openslr.org/6/> | CC-BY-SA 3.0 US |
+| Vystadial 2016 Czech | Czech | 77 hours; includes Vystadial 2013 Czech | | <https://lindat.cz/repository/xmlui/handle/11234/1-1740> | CC-BY-SA 4.0 |
 | Free Spoken Digit Dataset | English | 2,000 isolated digits | 4 speakers | <https://github.com/Jakobovski/free-spoken-digit-dataset> | CC-BY-SA 4.0 |
 | Google Javanese | Javanese | 296 hours| 1019 speakers| <http://www.openslr.org/35/> | CC-BY-SA 4.0 |
 | Google Nepali | Nepali | 165 hours| 527 speakers| <http://www.openslr.org/54/> | CC-BY-SA 4.0 |
@@ -136,6 +139,7 @@ Feel free to propse additions to the list!
 | TV3Parla | Catalan | 240 hours  |  | <http://laklak.eu/share/tv3_0.3.tar.gz> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Russian Open STT Corpus | Russian | ~10,000 hours public, ~10,000 more upon request  |  | <https://github.com/snakers4/open_stt/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [exceptions](https://github.com/snakers4/open_stt/blob/master/LICENSE)|
 | Russian Open TTS Corpus | Russian | 145 hours  | 3 males | <https://github.com/snakers4/open_tts/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_tts/blob/master/LICENSE)|
+| OVM – Otázky Václava Moravce | Czech | 35 hours  |  | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-000D-EC98-3> | [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) |
 
 ## 📜 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -155,7 +159,7 @@ Feel free to propse additions to the list!
 | Pansori TEDxKR | Korean | 3 hours | 41 speakers | <http://www.openslr.org/58/> | CC-BY-NC-ND 4.0 |
 | Primewords Mandarin | Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | CC-BY-NC-ND 4.0 |
 | MuST-C v1.0 | Audio (English); Text (Dutch, French, German, Italian, Portuguese, Romanian, Russian, Spanish) | 408, 504, 492, 465, 442, 385, 432, 489 hours per language pair | | <https://ict.fbk.eu/must-c-release-v1-0/> | CC-BY-NC-ND 4.0 |
-
+| Czech Parliament Meetings | Czech | 88 hours | | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-CF9C-4> | CC-BY-NC-ND 3.0 |
 
 ## 📜 [CDLA-Permissive](https://cdla.io/permissive-1-0/)
 
