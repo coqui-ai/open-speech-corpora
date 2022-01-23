@@ -6,6 +6,8 @@ This list has a preference for free (i.e. no $ cost) and truly open corpora (e.g
 
 Feel free to propse additions to the list!
 
+*There's a long backlog of corpora to be added in the [Issues](https://github.com/coqui-ai/open-speech-corpora/issues), and Pull Requests are very welcome :)*
+
 ## 📜 [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
