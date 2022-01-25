@@ -114,14 +114,15 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| Tatoeba-Eng | English | ~250 hours (rough estimate) | 6 speakers | <https://voice.mozilla.org/en/datasets> | CC BY-NC 4.0 (some audio) / CC BY-NC-ND 3.0 (most audio) / CC BY 2.0 (all text) |
-| TED-LIUM | English | 118 hours | 685 speakers (36h female / 81h male) | <http://www.openslr.org/7/> | CC-BY-NC-ND 3.0 |
-| TED-LIUM-2 | English | 207 hours | 1242 speakers (66h female / 141h male) | <http://www.openslr.org/19/> | CC-BY-NC-ND 3.0 |
-| TED-LIUM-3 | English | 452 hours | 2028 speakers (134h female / 316h male) | <http://www.openslr.org/51/> | CC-BY-NC-ND 3.0 |
-| Pansori TEDxKR | Korean | 3 hours | 41 speakers | <http://www.openslr.org/58/> | CC-BY-NC-ND 4.0 |
-| Primewords Mandarin | Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | CC-BY-NC-ND 4.0 |
-| MuST-C v1.0 | Audio (English); Text (Dutch, French, German, Italian, Portuguese, Romanian, Russian, Spanish) | 408, 504, 492, 465, 442, 385, 432, 489 hours per language pair | | <https://ict.fbk.eu/must-c-release-v1-0/> | CC-BY-NC-ND 4.0 |
-| Czech Parliament Meetings | Czech | 88 hours | | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-CF9C-4> | CC-BY-NC-ND 3.0 |
+| Tatoeba-Eng | English | ~250 hours (rough estimate) | 6 speakers | <https://voice.mozilla.org/en/datasets> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (some audio) / [CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) (most audio) / [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) (all text) |
+| TED-LIUM | English | 118 hours | 685 speakers (36h female / 81h male) | <http://www.openslr.org/7/> | [CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) |
+| TED-LIUM-2 | English | 207 hours | 1242 speakers (66h female / 141h male) | <http://www.openslr.org/19/> | [CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) |
+| TED-LIUM-3 | English | 452 hours | 2028 speakers (134h female / 316h male) | <http://www.openslr.org/51/> | [CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) |
+| Pansori TEDxKR | Korean | 3 hours | 41 speakers | <http://www.openslr.org/58/> | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Primewords Mandarin | Mandarin | 100 hours | 296 speakers | <http://www.openslr.org/47/> | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)|
+| MuST-C v1.0 | Audio (English); Text (Dutch, French, German, Italian, Portuguese, Romanian, Russian, Spanish) | 408, 504, 492, 465, 442, 385, 432, 489 hours per language pair | | <https://ict.fbk.eu/must-c-release-v1-0/> | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Czech Parliament Meetings | Czech | 88 hours | | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-CF9C-4> | [CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) |
+| BembaSpeech | Bemba | 24 hours | 17 speakers (9 male / 8 female) | <https://github.com/csikasote/BembaSpeech> | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
 ## 📜 [CDLA-Permissive](https://cdla.io/permissive-1-0/)
 
