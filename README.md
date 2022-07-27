@@ -12,7 +12,7 @@ Feel free to propse additions to the list!
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| Common Voice 7.0 | ISO codes: {en, fa, fr, es, sl, kab, cy, ca, de, tt, ta, ru, nl, it, eu, tr, ar, zh-TW, br, pt, eo, zh-CN, id, ia, lv, ja, rw, sv-SE, cnh, et, ky, ro, hsb, el, cs, pl, rm-sursilv, rm-vallader, mn, zh-HK, ab, cv, uk, mt, as, ka, fy-NL, dv, pa-IN, vi, or, ga-IE, fi, hu, th, lt, lg, hi, bas, sk, kmr, bg, kk, ba, gl, ug, hy-AM, be, ur, gn, sr, uz, sah, vot, az, ha} | 11,192 hours (validated); 13,905 hours (total) | 191,622 speakers (total) | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
+| Common Voice | Multilingual | >15,000 hours (validated); >20,000 hours (total) | Multi-speaker | <https://voice.mozilla.org/en/datasets> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Yesno | Hebrew | 6 mins | one male | <http://www.openslr.org/1/> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | LJ Speech Corpus | English | ~24 hours | [one female](https://librivox.org/reader/11049) | <https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | NST Danish ASR Database | Danish | 229,992 utterances | 616 speakers | original: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-19/>, reorganized: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-55/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
