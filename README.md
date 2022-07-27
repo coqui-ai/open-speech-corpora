@@ -27,6 +27,8 @@ Feel free to propse additions to the list!
 | NB Tale – Speech Database for Norwegian | Norwegian | 7,600 utterances + ~12 hours | 380 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-31/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Norwegian Parliamentary Speech Corpus (v0.1) | Norwegian | ~59 hours | 203 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Wikimedia Commons Odia | Odia | ~8 hours | ~20 speakers | <https://commons.wikimedia.org/wiki/Category:Odia_pronunciation> | mostly(?) [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
+| Thorsten-21.02-neutral | German | ~24 hours | 1 male speaker | <https://www.Thorsten-Voice.de> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
+| Thorsten-21.06-emotional | German | 2.400 utterances (8 emotions) | 1 male speaker | <https://www.Thorsten-Voice.de> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 
 ## 📜 [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
